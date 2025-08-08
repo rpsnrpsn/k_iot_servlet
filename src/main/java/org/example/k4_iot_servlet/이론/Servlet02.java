@@ -43,7 +43,7 @@ package org.example.k4_iot_servlet.이론;
         - 이후 요청부터는 재사용
             >> DB 연결 등 초기 설정
 
-    5) 서블릿이 요청을 처리(servier -> doGet / doPost)
+    5) 서블릿이 요청을 처리(service -> doGet / doPost)
         - 클라이언트 요청이 오면 service() 메서드가 호출
         - service()가 HTTP 메서드에 따라 doGet() - READ 또는 doPost() - CREATE, UPDATE, DELETE 호출
             cf) 모든 CRUD 작업이 doPost()에서 가능 (비권장!)

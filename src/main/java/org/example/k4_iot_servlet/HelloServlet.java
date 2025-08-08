@@ -1,4 +1,4 @@
-package org.example.k4_iot_survlet;
+package org.example.k4_iot_servlet;
 
 import java.io.*;
 

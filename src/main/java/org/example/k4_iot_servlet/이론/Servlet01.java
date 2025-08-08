@@ -1,4 +1,4 @@
-package org.example.k4_iot_survlet.이론;
+package org.example.k4_iot_servlet.이론;
 
 /*
 *   == 서블릿 (Servlet)

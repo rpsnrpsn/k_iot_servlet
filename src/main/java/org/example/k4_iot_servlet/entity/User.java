@@ -1,5 +1,4 @@
-package org.example.k4_iot_survlet.entity;
-
+package org.example.k4_iot_servlet.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

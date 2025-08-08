@@ -1,4 +1,4 @@
-package org.example.k4_iot_survlet.db;
+package org.example.k4_iot_servlet.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,5 +1,5 @@
 <%@ page import="java.util.List" %>
-<%@ page import="org.example.k4_iot_survlet.entity.User" %><%--
+<%@ page import="org.example.k4_iot_servlet.entity.User" %><%--
   Created by IntelliJ IDEA.
   User: user
   Date: 25. 8. 8.
